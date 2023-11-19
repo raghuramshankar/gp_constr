@@ -1,0 +1,3 @@
+[submodule "gp_plotly"]
+	path = gp_plotly
+	url = git@github.com:raghuramshankar/gp_plotly.git
